@@ -8,4 +8,4 @@ This directory contains for R files and code for the scenario discovery experime
 2. fypAnalysis.R performs scenario discovery with full 100 lhs sample
 3. comparingAlternatives.R is used to compare lhs to alternative samples
 
-Raw data files from SILO available upon request. They are numerous and difficult to upload to Github directly. SILO produces 8 outputs for every run and I save the parameter file, so full results include 4,500 files.
+Raw data files from SILO is available on google drive https://drive.google.com/drive/folders/1sqoT_Grl9lcVE124mP5VbhcErX1qRzUp?usp=sharing. The files are numerous and difficult to upload to Github directly. SILO produces 8 outputs for every run and I save the parameter file, so full results include 4,500 files.
